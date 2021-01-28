@@ -78,6 +78,8 @@ Se empezo a codear la idea propuesta, testeada y validada, para este proceso se 
 ## Propuesta final:
 Se propuso un blog interactivo adaptable a computadoras y tablets, donde los usuarios podrá encontrar una caja de comentarios, que ayudara a Habla Fácil conocer si la información que brinda es utíl o no, podrá buscar diferentes temas en los posts, compartir información por sus redes y dar like al post.
 
+Link de prototipo desplegable: [**Blog Habla facil**](https://hablafacilapp-20c5a.firebaseapp.com/#)
+
 ## Test de usabilidad:
 -   El flujo fue entendible para los usuarios.
 -   Se entendió el contenido.
