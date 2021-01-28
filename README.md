@@ -87,9 +87,9 @@ Se propuso un blog interactivo adaptable a computadoras y tablets, donde los usu
 
 ## Autoras 
 Squad : 7
-Milusca Vega
-Laura Jimenez
-Aurelis Moreno
-Yaje Panta
+-  Milusca Vega
+-  Laura Jimenez
+-  Aurelis Moreno
+-  Yaje Panta
 
 
