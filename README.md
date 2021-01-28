@@ -73,7 +73,7 @@ Para la etapa de prototipado se realizo en **baja, media y alta fidelidad**, el 
 Esta propuesta esta basada en las necesidades de los usuarios, viendo la utilidad, accesibilidad y viabilidad.
 
 ## Dando vida la solución:
-Se empezo a codear la idea propuesta, testeada y validada, para este proceso se utilizaron las siguientes herramientas: Se realizo el proyecto en **React**, se utilizó **SASS Y CSS3** para los estilos y diseño del blog y se desplego en **Firebase-hosting**.
+La organización del proyecto fue hecho en **GitHub**, se empezo a codear la idea propuesta, testeada y validada, para este proceso se utilizaron las siguientes herramientas: Se realizo el proyecto en **React**, se utilizó **SASS Y CSS3** para los estilos y diseño del blog y se desplego en **Firebase-hosting**.
 
 ## Propuesta final:
 Se propuso un blog interactivo adaptable a computadoras y tablets, donde los usuarios podrá encontrar una caja de comentarios, que ayudara a Habla Fácil conocer si la información que brinda es utíl o no, podrá buscar diferentes temas en los posts, compartir información por sus redes y dar like al post.
