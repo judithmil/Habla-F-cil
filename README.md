@@ -62,7 +62,7 @@ Empezamos a idear las posibles soluciones, las ideas las propusimos en equipo co
 ## Historias de Usuario:
 Después de evaluar la información que nos brindo los usuarios, creamos las historias de usuario priorizando sus necesidades.
 
-![historia_de_ususario](img_readme/historia_de_ususario.png)
+![historia_de_ususario](https://raw.githubusercontent.com/judithmil/Reto-HMW/master/Reto%20Habla%20Facil%20Squad%207%20-%20Historias%20de%20usuario.jpg)
 
 ## Dibujemos la solución
 Para la etapa de prototipado se realizo en **baja, media y alta fidelidad**, el la herramienta [**FIGMA**](https://www.figma.com/proto/XBn5IFVN4nTRkes8lCv62R/Reto-Habla-F%C3%A1cil?node-id=50%3A522&scaling=scale-down) se diseño dinámicamente la siguiente solución:
